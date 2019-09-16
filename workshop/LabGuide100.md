@@ -91,4 +91,4 @@ Once Created Click the Hamburger menu to the right of your VM and click Start.
 
 ![](images/17.png)
 
-You have now completed Lab100! Lets move on to lab 200 and get started with using our DevCS!
+You have now completed Lab100! Lets move on to [lab 200](https://github.com/adam-paz/IntegrationCICDLab/blob/master/workshop/LabGuide200.md) and get started with using our DevCS!
